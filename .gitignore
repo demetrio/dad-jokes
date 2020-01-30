@@ -34,9 +34,6 @@ node_modules
 .env.development
 .env.production
 
-lib/
-data/
-
 .cache
 dist/
 
