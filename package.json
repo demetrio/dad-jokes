@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demetrio/dad-jokes.git"
+    "url": "https://github.com/demetrio/dad-jokes.git"
   },
   "bugs": {
     "url": "https://github.com/demetrio/dad-jokes/issues"
