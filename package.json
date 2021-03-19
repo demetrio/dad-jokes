@@ -1,7 +1,7 @@
 {
   "name": "dadjokes",
-  "version": "1.0.0",
-  "description": "��<\u0000h\u00001\u0000 \u0000a\u0000l\u0000i\u0000g\u0000n\u0000=\u0000\"\u0000c\u0000e\u0000n\u0000t\u0000e\u0000r\u0000\"\u0000>\u0000\r\u0000 \u0000=�h� \u0000D\u0000a\u0000d\u0000 \u0000J\u0000o\u0000k\u0000e\u0000s\u0000 \u0000>�&�\r B&\u000f�\r\u0000 \u0000<\u0000/\u0000h\u00001\u0000>\u0000\r\u0000 \u0000",
+  "version": "1.1.0",
+  "description": "Who doesn't like dad jokes...?",
   "main": "jokes.js",
   "directories": {
     "lib": "lib"
@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cssnano": "^4.1.10",
-    "parcel-bundler": "^1.12.4"
+    "cssnano": "^4.1.11",
+    "parcel-bundler": "^1.12.5"
   },
   "browserslist": [
     "last 1 chrome versions"
