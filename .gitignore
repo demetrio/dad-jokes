@@ -44,3 +44,5 @@ dist/
 build/
 # Local Netlify folder
 .netlify
+
+.parcel-cache
